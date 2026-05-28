@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Descanso {
-    // Datos de recuperación
+
     private int horasSuenioRecomendadas;
     private List<String> tecnicasRecuperacion;
     private List<String> beneficiosDescanso;

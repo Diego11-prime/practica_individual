@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Comida {
-    // Datos de nutrición
+
     private int litrosAguaDiarios;
     private List<String> alimentosRecomendados;
     private List<String> horariosComida;
